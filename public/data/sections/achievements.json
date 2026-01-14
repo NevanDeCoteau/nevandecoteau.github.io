@@ -32,21 +32,24 @@
       },
       "items": [
         {
-          "id": 1,
-          "img": "",
-          "faIcon": "fa-brands fa-aws",
-          "faIconColors": { "bg": "#FF9900", "fill": "#111" },
-          "date": { "year": 2025, "month": 12 },
-          "link": { "href": "https://www.credly.com/badges/fa75a832-ad71-4eef-adc3-de9d42c4389f/public_url", "tooltipString": "see_certification" },
-          "locales": {
-            "en": {
-              "title": "AWS {{Certified Cloud Practitioner}}",
-              "text": "Foundational certification validating AWS Cloud knowledge, core services, pricing, and best practices."
-            },
-            "fr": {
-              "text": "Certification fondamentale validant les connaissances AWS Cloud, services principaux, tarification et bonnes pratiques."
-            }
+        "id": 1,
+        "img": "",
+        "faIcon": "fa-solid fa-heart-pulse",
+        "faIconColors": { "bg": "#6B7280", "fill": "#FFF" },
+        "date": { "year": 2025, "month": 2 },
+        "link": {
+            "href": "https://www.mentalhealthcommission.ca/",
+            "tooltipString": "see_certification"
+        },
+        "locales": {
+          "en": {
+          "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
+          "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
+          },
+          "fr": {
+          "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
           }
+        }
         },
         {
           "id": 2,
@@ -66,26 +69,24 @@
           }
         },
         {
-        "id": 3,
-        "img": "",
-        "faIcon": "fa-solid fa-heart-pulse",
-        "faIconColors": { "bg": "#6B7280", "fill": "#FFF" },
-        "date": { "year": 2025, "month": 2 },
-        "link": {
-            "href": "https://www.mentalhealthcommission.ca/",
-            "tooltipString": "see_certification"
-        },
-        "locales": {
-          "en": {
-          "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
-          "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
-          },
-          "fr": {
-          "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
+          "id": 3,
+          "img": "",
+          "faIcon": "fa-brands fa-aws",
+          "faIconColors": { "bg": "#FF9900", "fill": "#111" },
+          "date": { "year": 2025, "month": 12 },
+          "link": { "href": "https://www.credly.com/badges/fa75a832-ad71-4eef-adc3-de9d42c4389f/public_url", "tooltipString": "see_certification" },
+          "locales": {
+            "en": {
+              "title": "AWS {{Certified Cloud Practitioner}}",
+              "text": "Foundational certification validating AWS Cloud knowledge, core services, pricing, and best practices."
+            },
+            "fr": {
+              "text": "Certification fondamentale validant les connaissances AWS Cloud, services principaux, tarification et bonnes pratiques."
+            }
           }
         }
-        }
-
+        
+      
       ]
     },
 
@@ -157,33 +158,7 @@
           }
         },
         {
-        "id": 3,
-        "date": { "year": 2024, "month": 7 },
-        "preview": {
-            "links": [],
-            "screenshots": [],
-            "screenshotsAspectRatio": "",
-            "youtubeVideo": ""
-        },
-        "locales": {
-          "en": {
-          "title": "{{1st Place}} – Men's Cosplay Championship, Galacktakon",
-          "province": "",
-          "country": "Trinidad and Tobago",
-          "institution": "Galacktakon Anime Convention",
-          "text": "Placed first in the Men's Cosplay Championship at Galacktakon, demonstrating creativity, craftsmanship, stage presence, and performance excellence."
-          },
-          "fr": {
-          "title": "{{1ère Place}} – Championnat Masculin de Cosplay, Galacktakon",
-          "province": "",
-          "country": "Trinité-et-Tobago",
-          "institution": "Convention Anime Galacktakon",
-          "text": "Classé premier au championnat masculin de cosplay à Galacktakon, démontrant créativité, savoir-faire et performance scénique."
-          }
-        }
-        },
-        {
-        "id": 4,
+        "id": 5,
         "date": { "year": 2023, "month": 12 },
         "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
         "locales": {
@@ -204,7 +179,7 @@
         }
         },
         {
-        "id": 5,
+        "id": 6,
         "date": { "year": 2022, "month": 10 },
         "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
         "locales": {
@@ -225,7 +200,7 @@
         }
         },
         {
-        "id": 6,
+        "id": 7,
         "date": { "year": 2022, "month": 9 },
         "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
         "locales": {

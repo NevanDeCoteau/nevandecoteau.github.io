@@ -48,15 +48,6 @@
         "en": { "name": "Dark Mode" },
         "fr": { "name": "Mode Sombre" }
       }
-    },
-    {
-      "id": "light",
-      "icon": "fa-solid fa-sun",
-      "dark": false,
-      "locales": {
-        "en": { "name": "Light Mode" },
-        "fr": { "name": "Mode Clair" }
-      }
     }
   ],
 

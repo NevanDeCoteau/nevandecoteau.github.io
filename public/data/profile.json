@@ -23,10 +23,8 @@
         "fr": {
             "status_message_available_for_freelance": "Disponible pour freelance !",
             "roles": [
-                "Développeur Backend",
-                "Développeur Frontend",
-                "Ingénieur DevOps",
-                "Designer UX"
+                "Développeur React",
+                "Student"
             ]
         }
     }

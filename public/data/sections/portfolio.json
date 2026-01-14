@@ -42,13 +42,13 @@
       "items": [
         {
           "id": 1,
-          "categoryId": "category_utilities",
+          "categoryId": "category_web",
           "img": "images/pictures/portfolio-appliance-finder.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
             "links": [
-              { "href": "https://github.com/nevan-de-coteau/campus-appliance-finder", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
+              { "href": "https://github.com/NevanDeCoteau/appliance-finder", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
             "screenshots": [
               "images/pictures/screenshot-appliance-finder-1.png",
@@ -78,7 +78,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
             "links": [
-              { "href": "https://github.com/nevan-de-coteau/fitness-tracker", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
+              { "href": "https://github.com/NevanDeCoteau/fitness-app", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
             "screenshots": [
               "images/pictures/screenshot-fitness-1.png",
@@ -108,8 +108,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
             "links": [
-              { "href": "https://github.com/nevan-de-coteau/dachemisride", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" },
-              { "href": "https://dachemisride.nevan-de-coteau.github.io", "tooltipString": "open_website", "faIcon": "fa-solid fa-link" }
+              { "href": "https://github.com/NevanDeCoteau/dalchemists_rideshare", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
             "screenshots": [
               "images/pictures/screenshot-dachemisride-1.png",
