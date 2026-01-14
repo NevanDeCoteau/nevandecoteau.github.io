@@ -31,25 +31,22 @@
         "order_items_sort": "desc"
       },
       "items": [
-        {
-        "id": 1,
-        "img": "",
-        "faIcon": "fa-solid fa-heart-pulse",
-        "faIconColors": { "bg": "#6B7280", "fill": "#FFF" },
-        "date": { "year": 2025, "month": 2 },
-        "link": {
-            "href": "https://www.mentalhealthcommission.ca/",
-            "tooltipString": "see_certification"
-        },
-        "locales": {
-          "en": {
-          "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
-          "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
-          },
-          "fr": {
-          "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
+          {
+          "id": 1,
+          "img": "",
+          "faIcon": "fa-brands fa-aws",
+          "faIconColors": { "bg": "#FF9900", "fill": "#111" },
+          "date": { "year": 2025, "month": 12 },
+          "link": { "href": "https://www.credly.com/badges/fa75a832-ad71-4eef-adc3-de9d42c4389f/public_url", "tooltipString": "see_certification" },
+          "locales": {
+            "en": {
+              "title": "AWS {{Certified Cloud Practitioner}}",
+              "text": "Foundational certification validating AWS Cloud knowledge, core services, pricing, and best practices."
+            },
+            "fr": {
+              "text": "Certification fondamentale validant les connaissances AWS Cloud, services principaux, tarification et bonnes pratiques."
+            }
           }
-        }
         },
         {
           "id": 2,
@@ -71,22 +68,23 @@
         {
           "id": 3,
           "img": "",
-          "faIcon": "fa-brands fa-aws",
-          "faIconColors": { "bg": "#FF9900", "fill": "#111" },
-          "date": { "year": 2025, "month": 12 },
-          "link": { "href": "https://www.credly.com/badges/fa75a832-ad71-4eef-adc3-de9d42c4389f/public_url", "tooltipString": "see_certification" },
+          "faIcon": "fa-solid fa-heart-pulse",
+          "faIconColors": { "bg": "#6B7280", "fill": "#FFF" },
+          "date": { "year": 2025, "month": 2 },
+          "link": {
+              "href": "https://www.mentalhealthcommission.ca/",
+              "tooltipString": "see_certification"
+          },
           "locales": {
             "en": {
-              "title": "AWS {{Certified Cloud Practitioner}}",
-              "text": "Foundational certification validating AWS Cloud knowledge, core services, pricing, and best practices."
+            "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
+            "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
             },
             "fr": {
-              "text": "Certification fondamentale validant les connaissances AWS Cloud, services principaux, tarification et bonnes pratiques."
+            "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
             }
           }
         }
-        
-      
       ]
     },
 
