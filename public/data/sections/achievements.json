@@ -28,7 +28,7 @@
       },
       "settings": {
         "order_items_by": "id",
-        "order_items_sort": "desc"
+        "order_items_sort": "asc"
       },
       "items": [
           {
