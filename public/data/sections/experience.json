@@ -7,24 +7,14 @@
                 "title_long_prefix": "Summary of my",
                 "title_long": "{{Work}} Experience"
             },
-            "es": {
-                "title_short": "Experiencia",
-                "title_short_nav": "Experiencia",
-                "title_long_prefix": "Resumen de mi",
-                "title_long": "Experiencia {{Laboral}}"
-            },
             "fr": {
                 "title_short": "Expérience",
                 "title_short_nav": "Expérience",
                 "title_long_prefix": "Résumé de mon",
                 "title_long": "Parcours {{Professionel}}"
-            },
-            "ko": {
-                "title_short": "경험",
-                "title_short_nav": "경험",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{직업적}} 경험"
             }
+            
+            
         }
     },
 
@@ -59,10 +49,7 @@
                         "Participated in weekly Agile SCRUM meetings to meet development milestones"
                     ],
                     "tags": ["Unity", "C#", "Agile", "SCRUM", "Web3"]
-                    },
-                    "es": {},
-                    "fr": {},
-                    "ko": {}
+                    }
                 }
                 },
                 {
@@ -85,10 +72,7 @@
                         "Provided technical support to end users and ensured system reliability"
                     ],
                     "tags": ["IT Support", "Asset Management", "System Troubleshooting", "Windows", "Networking"]
-                    },
-                    "es": {},
-                    "fr": {},
-                    "ko": {}
+                    }
                 }
                 }
                 

@@ -7,12 +7,6 @@
                 "title_long_prefix": "Hello!",
                 "title_long": "I'm {{Nevan De Coteau!}}"
             },
-            "es": {
-                "title_short": "¡Saludos!",
-                "title_short_nav": "Sobre mí",
-                "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Nevan De Coteau!}}"
-            },
             "fr": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
@@ -57,11 +51,9 @@
         {
             "id": 2,
             "component": "ArticleText",
-            "locales": {
+                "locales": {
                 "en": {"title": "{{A little bit}} about me..."},
-                "es": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
+                "fr": {"title": "{{Un peu}} à propos de moi..."}
             },
             "settings": {
                 "order_items_by": "id",
@@ -73,21 +65,16 @@
                     "img": "images/pictures/bitmoji.jpeg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "locales": {
+                        "locales": {
                         "en": {
                             "text": "<p>I am a 2nd year Applied Computer Science student at Dalhousie University with a strong foundation in software engineering, algorithms, and database systems. I have hands-on experience working in IT operations and software-focused environments, including managing large-scale IT assets and contributing to collaborative, Agile-based development projects. I am particularly interested in building practical, user-focused software solutions and continuously developing my technical and leadership skills.</p>"
                         },
-                        "es": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
-                        },
                         "fr": {
                             "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
-                        },
-                        "ko": {
-                            "text": "<p>저는 {{백엔드}} 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 [[10년 이상의]] 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다. 확장 가능한 API 구축, 시스템 성능 최적화, 또는 전체 스택 솔루션에 기여하는 등 다양한 분야에 능숙하게 참여할 수 있습니다. 저는 각 프로젝트에 맞는 최적의 도구를 찾는 것과 새로운 도전을 즐깁니다.</p><p>[[당신과 협업]]하기를 기대하고 있습니다!</p>"
                         }
                     }
                 }
+                
             ]
         },
         {
@@ -99,9 +86,7 @@
             },
             "locales": {
                 "en": {"title": "Personal {{interests}}"},
-                "es": {"title": "Intereses {{personales}}"},
-                "fr": {"title": "Intérêts {{personnels}} "},
-                "ko": {"title": "개인 {{관심사}}"}
+                "fr": {"title": "Intérêts {{personnels}} "}
             },
             "items": [
                 {
@@ -111,22 +96,14 @@
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
-                    "locales": {
+                        "locales": {
                         "en": {
                             "title": "{{Martial Arts}} - Kendo and Judo",
                             "text": "Judoka and Kendoka - Actively practicing kendo at ShuuRenKan Kendo Club."
                         },
-                        "es": {
-                            "title": "Edición de video con {{AI}}",
-                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
-                        },
                         "fr": {
                             "title": "Édition vidéo avec {{IA}}",
                             "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
-                        },
-                        "ko": {
-                            "title": "{{AI}} 비디오 편집",
-                            "text": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
                         }
                     }
                 },
@@ -137,22 +114,14 @@
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
-                    "locales": {
+                        "locales": {
                         "en": {
                             "title": "{{Music}} & Arts",
                             "text": "I play the piano and dabble in digital music production."
                         },
-                        "es": {
-                            "title": "{{Arte}} y Ilustración",
-                            "text": "Practicando arte digital y explorando nuevos estilos."
-                        },
                         "fr": {
                             "title": "{{Arts}} & Illustration",
                             "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
-                        },
-                        "ko": {
-                            "title": "{{예술}} 및 일러스트레이션",
-                            "text": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
                         }
                     }
                 },
@@ -163,22 +132,14 @@
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
-                    "locales": {
+                        "locales": {
                         "en": {
                             "title": "{{Fitness}} and Health",
                             "text": "I love a good workout and pride myself on helthy food choices!"
                         },
-                        "es": {
-                            "title": "{{Inversión}} y Finanzas",
-                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
-                        },
                         "fr": {
                             "title": "{{Investissement}} & Finance",
                             "text": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "{{투자}} 및 재정 관리",
-                            "text": "주식과 개인 재정의 기초 배우기."
                         }
                     }
                 }

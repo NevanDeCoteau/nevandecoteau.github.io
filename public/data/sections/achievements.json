@@ -7,24 +7,14 @@
         "title_long_prefix": "Here are my",
         "title_long": "Career {{Achievements}}"
       },
-      "es": {
-        "title_short": "Logros",
-        "title_short_nav": "Logros",
-        "title_long_prefix": "Aquí están mis",
-        "title_long": "{{Logros}} Profesionales"
-      },
       "fr": {
         "title_short": "Réalis",
         "title_short_nav": "Réalisations",
         "title_long_prefix": "Voici",
         "title_long": "Mes {{Réalisations}}"
-      },
-      "ko": {
-        "title_short": "경력 성과",
-        "title_short_nav": "경력 성과",
-        "title_long_prefix": "다음은",
-        "title_long": "{{경력 성과}}입니다"
       }
+      
+      
     }
   },
 
@@ -34,9 +24,7 @@
       "component": "ArticleCards",
       "locales": {
         "en": { "title": "Certifications" },
-        "es": { "title": "Certificaciones" },
-        "fr": { "title": "Certifications" },
-        "ko": { "title": "인증서" }
+        "fr": { "title": "Certifications" }
       },
       "settings": {
         "order_items_by": "id",
@@ -55,14 +43,8 @@
               "title": "AWS {{Certified Cloud Practitioner}}",
               "text": "Foundational certification validating AWS Cloud knowledge, core services, pricing, and best practices."
             },
-            "es": {
-              "text": "Certificación fundamental que valida conocimientos de AWS Cloud, servicios principales, precios y mejores prácticas."
-            },
             "fr": {
               "text": "Certification fondamentale validant les connaissances AWS Cloud, services principaux, tarification et bonnes pratiques."
-            },
-            "ko": {
-              "text": "AWS 클라우드 지식, 핵심 서비스, 가격 책정 및 모범 사례를 검증하는 기초 인증."
             }
           }
         },
@@ -78,14 +60,8 @@
               "title": "{{Machine Learning Basics}} – ShiftKey Labs",
               "text": "Hands-on course covering fundamental ML models, building pipelines, and AI exploration."
             },
-            "es": {
-              "text": "Curso práctico que cubre modelos ML fundamentales, construcción de pipelines y exploración de IA."
-            },
             "fr": {
               "text": "Cours pratique couvrant les modèles ML fondamentaux, pipelines de construction et exploration IA."
-            },
-            "ko": {
-              "text": "기초 ML 모델, 파이프라인 구축, AI 탐구를 다루는 실습 과정."
             }
           }
         },
@@ -100,19 +76,13 @@
             "tooltipString": "see_certification"
         },
         "locales": {
-            "en": {
-            "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
-            "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
-            },
-            "es": {
-            "text": "Certificación emitida por la Comisión de Salud Mental de Canadá, centrada en alfabetización en salud mental, reducción del estigma y apoyo al bienestar estudiantil."
-            },
-            "fr": {
-            "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
-            },
-            "ko": {
-            "text": "캐나다 정신건강위원회에서 발급한 인증으로, 정신 건강 이해 증진, 낙인 감소 및 고등교육 환경에서의 학생 지원에 중점을 둠."
-            }
+          "en": {
+          "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
+          "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
+          },
+          "fr": {
+          "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
+          }
         }
         }
 
@@ -124,9 +94,7 @@
       "component": "ArticleThread",
       "locales": {
         "en": { "title": "Awards" },
-        "es": { "title": "Premios" },
-        "fr": { "title": "Récompenses" },
-        "ko": { "title": "수상 내역" }
+        "fr": { "title": "Récompenses" }
       },
       "settings": {
         "max_rows_collapse_threshold": 4,
@@ -145,7 +113,7 @@
             "screenshotsAspectRatio": "",
             "youtubeVideo": ""
           },
-          "locales": {
+            "locales": {
             "en": {
               "title": "{{Honorable Mention}} – RBC HubHacks 2025",
               "province": "Nova Scotia",
@@ -153,26 +121,12 @@
               "institution": "RBC HubHacks",
               "text": "Team member of Dalchemists, the runner-up team in a hackathon that dealt with tackling real-world transportation issues for underprivileged communities via tech solutions."
             },
-            "es": {
-              "title": "{{Mención Honorable}} – RBC HubHacks 2025",
-              "province": "Nueva Escocia",
-              "country": "Canadá",
-              "institution": "RBC HubHacks",
-              "text": "Miembro del equipo galardonado con 2do lugar Mención Honorable por Dachemisride, abordando problemas de transporte reales para comunidades desfavorecidas mediante soluciones tecnológicas."
-            },
             "fr": {
               "title": "{{Mention Honorable}} – RBC HubHacks 2025",
               "province": "Nouvelle-Écosse",
               "country": "Canada",
               "institution": "RBC HubHacks",
               "text": "Membre d'équipe primé Mention Honorable 2e place pour Dachemisride, résolvant problèmes de transport réels pour communautés défavorisées via solutions tech."
-            },
-            "ko": {
-              "title": "{{Honorable Mention}} – RBC HubHacks 2025",
-              "province": "노바스코샤",
-              "country": "캐나다",
-              "institution": "RBC HubHacks",
-              "text": "취약계층 교통 문제를 해결한 Dachemisride로 팀원으로 2등 Honorable Mention 수상."
             }
           }
         },
@@ -193,26 +147,12 @@
               "institution": "Dalhousie University",
               "text": "Maintained Cumulative GPA of 4.06/4.3 in Bachelor of Applied Computer Science program, demonstrating consistent high performance."
             },
-            "es": {
-              "title": "{{Excelencia Académica}} – Universidad Dalhousie",
-              "province": "Nueva Escocia",
-              "country": "Canadá",
-              "institution": "Universidad Dalhousie",
-              "text": "Mantuvo un CGPA acumulativo de 4.06/4.3 en el programa de Licenciatura en Ciencias de la Computación Aplicada, demostrando un alto rendimiento constante."
-            },
             "fr": {
               "title": "{{Excellence Académique}} – Université Dalhousie",
               "province": "Nouvelle-Écosse",
               "country": "Canada",
               "institution": "Université Dalhousie",
               "text": "Maintenu une moyenne cumulative de 4.06/4.3 au programme Baccalauréat en informatique appliquée, démontrant un rendement élevé constant."
-            },
-            "ko": {
-              "title": "{{학업 우수}} – 달하우지 대학교",
-              "province": "노바스코샤",
-              "country": "캐나다",
-              "institution": "달하우지 대학교",
-              "text": "응용 컴퓨터 과학 학사 과정에서 누적 GPA 4.06/4.3 유지로 지속적인 우수 성과 입증."
             }
           }
         },
@@ -226,34 +166,20 @@
             "youtubeVideo": ""
         },
         "locales": {
-            "en": {
-            "title": "{{1st Place}} – Men's Cosplay Championship, Galacktakon",
-            "province": "",
-            "country": "Trinidad and Tobago",
-            "institution": "Galacktakon Anime Convention",
-            "text": "Placed first in the Men's Cosplay Championship at Galacktakon, demonstrating creativity, craftsmanship, stage presence, and performance excellence."
-            },
-            "es": {
-            "title": "{{1er Lugar}} – Campeonato Masculino de Cosplay, Galacktakon",
-            "province": "",
-            "country": "Trinidad y Tobago",
-            "institution": "Convención de Anime Galacktakon",
-            "text": "Obtuvo el primer lugar en el Campeonato Masculino de Cosplay en Galacktakon, destacando creatividad, elaboración y presencia escénica."
-            },
-            "fr": {
-            "title": "{{1ère Place}} – Championnat Masculin de Cosplay, Galacktakon",
-            "province": "",
-            "country": "Trinité-et-Tobago",
-            "institution": "Convention Anime Galacktakon",
-            "text": "Classé premier au championnat masculin de cosplay à Galacktakon, démontrant créativité, savoir-faire et performance scénique."
-            },
-            "ko": {
-            "title": "{{1위}} – 남성 코스프레 챔피언십, Galacktakon",
-            "province": "",
-            "country": "트리니다드 토바고",
-            "institution": "Galacktakon 애니메이션 컨벤션",
-            "text": "Galacktakon 남성 코스프레 챔피언십에서 1위를 차지하며 창의성, 제작 기술, 무대 퍼포먼스를 입증함."
-            }
+          "en": {
+          "title": "{{1st Place}} – Men's Cosplay Championship, Galacktakon",
+          "province": "",
+          "country": "Trinidad and Tobago",
+          "institution": "Galacktakon Anime Convention",
+          "text": "Placed first in the Men's Cosplay Championship at Galacktakon, demonstrating creativity, craftsmanship, stage presence, and performance excellence."
+          },
+          "fr": {
+          "title": "{{1ère Place}} – Championnat Masculin de Cosplay, Galacktakon",
+          "province": "",
+          "country": "Trinité-et-Tobago",
+          "institution": "Convention Anime Galacktakon",
+          "text": "Classé premier au championnat masculin de cosplay à Galacktakon, démontrant créativité, savoir-faire et performance scénique."
+          }
         }
         },
         {
@@ -261,34 +187,20 @@
         "date": { "year": 2023, "month": 12 },
         "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
         "locales": {
-            "en": {
-            "title": "{{ICT Additional Scholarship}} – Government of Trinidad and Tobago",
-            "province": "",
-            "country": "Trinidad and Tobago",
-            "institution": "Government of Trinidad and Tobago",
-            "text": "Awarded to top-performing students in ICT subject groupings, providing financial support for local or international tertiary studies."
-            },
-            "es": {
-            "title": "{{Beca Adicional ICT}} – Gobierno de Trinidad y Tobago",
-            "province": "",
-            "country": "Trinidad y Tobago",
-            "institution": "Gobierno de Trinidad y Tobago",
-            "text": "Otorgada a estudiantes con alto rendimiento en áreas de ICT, brindando apoyo financiero para estudios terciarios."
-            },
-            "fr": {
-            "title": "{{Bourse ICT Supplémentaire}} – Gouvernement de Trinité-et-Tobago",
-            "province": "",
-            "country": "Trinité-et-Tobago",
-            "institution": "Gouvernement de Trinité-et-Tobago",
-            "text": "Attribuée aux étudiants les plus performants en ICT, offrant un soutien financier pour études supérieures."
-            },
-            "ko": {
-            "title": "{{ICT 추가 장학금}} – 트리니다드 토바고 정부",
-            "province": "",
-            "country": "트리니다드 토바고",
-            "institution": "트리니다드 토바고 정부",
-            "text": "ICT 분야 우수 학생에게 수여되는 장학금으로, 국내외 고등 교육을 위한 재정 지원 제공."
-            }
+          "en": {
+          "title": "{{ICT Additional Scholarship}} – Government of Trinidad and Tobago",
+          "province": "",
+          "country": "Trinidad and Tobago",
+          "institution": "Government of Trinidad and Tobago",
+          "text": "Awarded to top-performing students in ICT subject groupings, providing financial support for local or international tertiary studies."
+          },
+          "fr": {
+          "title": "{{Bourse ICT Supplémentaire}} – Gouvernement de Trinité-et-Tobago",
+          "province": "",
+          "country": "Trinité-et-Tobago",
+          "institution": "Gouvernement de Trinité-et-Tobago",
+          "text": "Attribuée aux étudiants les plus performants en ICT, offrant un soutien financier pour études supérieures."
+          }
         }
         },
         {
@@ -296,34 +208,20 @@
         "date": { "year": 2022, "month": 10 },
         "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
         "locales": {
-            "en": {
-            "title": "{{Fr. Brett Cup}} – Fatima College",
-            "province": "Port of Spain",
-            "country": "Trinidad and Tobago",
-            "institution": "Fatima College",
-            "text": "Awarded to the top-performing student for the academic year, recognizing outstanding academic achievement."
-            },
-            "es": {
-            "title": "{{Copa Fr. Brett}} – Fatima College",
-            "province": "Puerto España",
-            "country": "Trinidad y Tobago",
-            "institution": "Fatima College",
-            "text": "Otorgado al estudiante con mejor desempeño académico del año."
-            },
-            "fr": {
-            "title": "{{Coupe Fr. Brett}} – Fatima College",
-            "province": "Port of Spain",
-            "country": "Trinité-et-Tobago",
-            "institution": "Fatima College",
-            "text": "Décernée à l'étudiant le plus performant de l'année académique."
-            },
-            "ko": {
-            "title": "{{Fr. Brett 컵}} – Fatima College",
-            "province": "포트오브스페인",
-            "country": "트리니다드 토바고",
-            "institution": "Fatima College",
-            "text": "학년도 최고 성취 학생에게 수여되는 학업 우수상."
-            }
+          "en": {
+          "title": "{{Fr. Brett Cup}} – Fatima College",
+          "province": "Port of Spain",
+          "country": "Trinidad and Tobago",
+          "institution": "Fatima College",
+          "text": "Awarded to the top-performing student for the academic year, recognizing outstanding academic achievement."
+          },
+          "fr": {
+          "title": "{{Coupe Fr. Brett}} – Fatima College",
+          "province": "Port of Spain",
+          "country": "Trinité-et-Tobago",
+          "institution": "Fatima College",
+          "text": "Décernée à l'étudiant le plus performant de l'année académique."
+          }
         }
         },
         {
@@ -338,26 +236,12 @@
             "institution": "Fatima College",
             "text": "Selected as House Captain, leading student teams and managing inter-house competitions and extracurricular activities."
             },
-            "es": {
-            "title": "{{Capitán de Casa}} – Fatima College",
-            "province": "Puerto España",
-            "country": "Trinidad y Tobago",
-            "institution": "Fatima College",
-            "text": "Seleccionado como Capitán de Casa, liderando equipos estudiantiles y competencias inter-casas."
-            },
             "fr": {
             "title": "{{Capitaine de Maison}} – Fatima College",
             "province": "Port of Spain",
             "country": "Trinité-et-Tobago",
             "institution": "Fatima College",
             "text": "Choisi comme capitaine de maison, responsable du leadership étudiant et des compétitions inter-maisons."
-            },
-            "ko": {
-            "title": "{{하우스 캡틴}} – Fatima College",
-            "province": "포트오브스페인",
-            "country": "트리니다드 토바고",
-            "institution": "Fatima College",
-            "text": "학생 팀을 이끌고 교내 대항전 및 비교과 활동을 관리한 하우스 캡틴으로 선발됨."
             }
         }
         }

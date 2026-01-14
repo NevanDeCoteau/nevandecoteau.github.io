@@ -7,24 +7,13 @@
         "title_long_prefix": "This is my",
         "title_long": "{{Education}} Background"
       },
-      "es": {
-        "title_short": "Educación",
-        "title_short_nav": "Educación",
-        "title_long_prefix": "Esta es mi",
-        "title_long": "{{Formación}} Educativa"
-      },
       "fr": {
         "title_short": "Éducation",
         "title_short_nav": "Éducation",
         "title_long_prefix": "C'est mon",
         "title_long": "{{Contexte}} Éducatif"
-      },
-      "ko": {
-        "title_short": "교육",
-        "title_short_nav": "교육",
-        "title_long_prefix": "이것은 내",
-        "title_long": "{{교육적}} 배경"
       }
+      
     }
   },
 
@@ -45,7 +34,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2023, "month": 9 },
           "dateEnd": { "year": 2028, "month": 5 },
-          "locales": {
+            "locales": {
             "en": {
               "title": "Bachelor of {{Applied Computer Science}}",
               "province": "Nova Scotia",
@@ -55,30 +44,12 @@
               "list": [],
               "tags": []
             },
-            "es": {
-              "title": "{{Licenciatura}} en Computación Aplicada",
-              "province": "Nueva Escocia",
-              "country": "Canadá",
-              "institution": "Universidad de Dalhousie",
-              "text": "Estudiando una [[Licenciatura en Computación Aplicada]] con especialización en Ciencias de la Computación y un minor en Gestión Empresarial, manteniendo un alto rendimiento académico. El plan de estudios enfatiza la ingeniería de software, el trabajo en equipo y la resolución práctica de problemas.",
-              "list": [],
-              "tags": []
-            },
             "fr": {
               "title": "{{Baccalauréat}} en informatique appliquée",
               "province": "Nouvelle-Écosse",
               "country": "Canada",
               "institution": "Université Dalhousie",
               "text": "Prépare un [[baccalauréat en informatique appliquée]] avec majeure en informatique et mineure en gestion des affaires, avec un excellent dossier académique. La formation met l’accent sur le génie logiciel, le travail d’équipe et la résolution pratique de problèmes.",
-              "list": [],
-              "tags": []
-            },
-            "ko": {
-              "title": "응용 {{컴퓨터 과학}} 학사",
-              "province": "노바스코샤",
-              "country": "캐나다",
-              "institution": "달하우지 대학교",
-              "text": "컴퓨터 과학 전공과 비즈니스 경영 부전공으로 [[응용 컴퓨터 과학 학사]] 과정을 이수 중이며, 우수한 학업 성적을 유지하고 있습니다. 소프트웨어 공학, 팀워크, 프로젝트 기반 문제 해결에 중점을 둔 교육 과정을 따르고 있습니다.",
               "list": [],
               "tags": []
             }
@@ -91,7 +62,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2021, "month": 9 },
           "dateEnd": { "year": 2023, "month": 5 },
-          "locales": {
+            "locales": {
             "en": {
               "title": "{{CAPE}} - Caribbean Advanced Proficiency Examinations",
               "province": "Port of Spain",
@@ -101,30 +72,12 @@
               "list": [],
               "tags": []
             },
-            "es": {
-              "title": "Exámenes de {{Competencia Avanzada}} del Caribe",
-              "province": "Puerto España",
-              "country": "Trinidad y Tobago",
-              "institution": "Fatima College",
-              "text": "Completé los [[Exámenes de Competencia Avanzada del Caribe]] (CAPE) con un sólido expediente académico, centrado en Matemáticas Puras, Matemáticas Aplicadas, Ciencias de la Computación y Tecnología de la Información.",
-              "list": [],
-              "tags": []
-            },
             "fr": {
               "title": "Examens caribéens de {{compétence avancée}}",
               "province": "Port of Spain",
               "country": "Trinité-et-Tobago",
               "institution": "Fatima College",
               "text": "A terminé les [[Caribbean Advanced Proficiency Examinations]] (CAPE) avec d’excellents résultats, en se concentrant sur les mathématiques pures, les mathématiques appliquées, l’informatique et les technologies de l’information.",
-              "list": [],
-              "tags": []
-            },
-            "ko": {
-              "title": "카리브해 고급 [[능력 시험]]",
-              "province": "포트오브스페인",
-              "country": "트리니다드 토바고",
-              "institution": "파티마 칼리지",
-              "text": "순수수학, 응용수학, 컴퓨터 과학, 정보 기술에 중점을 두고 [[Caribbean Advanced Proficiency Examinations]](CAPE)를 우수한 성적으로 마쳤습니다.",
               "list": [],
               "tags": []
             }
