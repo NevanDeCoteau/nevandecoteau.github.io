@@ -50,11 +50,7 @@
             "links": [
               { "href": "https://github.com/NevanDeCoteau/appliance-finder", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
-            "screenshots": [
-              "images/pictures/screenshot-appliance-finder-1.png",
-              "images/pictures/screenshot-appliance-finder-2.png",
-              "images/pictures/screenshot-appliance-finder-3.png"
-            ],
+            "screenshots": [],
             "screenshotsAspectRatio": "16:9",
             "youtubeVideo": ""
           },
@@ -80,11 +76,7 @@
             "links": [
               { "href": "https://github.com/NevanDeCoteau/fitness-app", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
-            "screenshots": [
-              "images/pictures/screenshot-fitness-1.png",
-              "images/pictures/screenshot-fitness-2.png",
-              "images/pictures/screenshot-fitness-3.png"
-            ],
+            "screenshots": [],
             "screenshotsAspectRatio": "9:16",
             "youtubeVideo": ""
           },
@@ -110,11 +102,7 @@
             "links": [
               { "href": "https://github.com/NevanDeCoteau/dalchemists_rideshare", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
-            "screenshots": [
-              "images/pictures/screenshot-dachemisride-1.png",
-              "images/pictures/screenshot-dachemisride-2.png",
-              "images/pictures/screenshot-dachemisride-3.png"
-            ],
+            "screenshots": [],
             "screenshotsAspectRatio": "16:9",
             "youtubeVideo": ""
           },
@@ -136,7 +124,10 @@
           "img": "images/pictures/portfolio-n8n-content-automation.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
-          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
+          "preview": { "links": [], "screenshots": [
+            "images/pictures/n8n.png"
+          ], 
+          "screenshotsAspectRatio": "16:9", "youtubeVideo": "" },
           "locales": {
             "en": {
               "title": "Automated Content Generation & Publishing System",
