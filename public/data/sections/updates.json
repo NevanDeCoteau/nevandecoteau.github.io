@@ -375,24 +375,24 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Competed in the {{2025 Global Game Jam}}",
+                            "title": "Competed in the {{2026 Global Game Jam}}",
                             "province": "Halifax",
                             "country": "Canada",
                             "institution": "Dalhousie University x ShiftKey Labs",
-                            "text": "Participated in the 2025 Global Game Jam at Dalhousie University in partnership with ShiftKey Labs. Over one intense weekend, our team designed and built a murder mystery game in Unity from concept to playable prototype. Had to shake off the rust with Unity, but the experience was a huge win.",
+                            "text": "Participated in the 2026 Global Game Jam at Dalhousie University in partnership with ShiftKey Labs. Over one intense weekend, our team designed and built a murder mystery game in Unity from concept to playable prototype. Had to shake off the rust with Unity, but the experience was a huge win.",
                             "list": [
-                                "Rapid scoping and trade-offs under time pressure",
+                                "Efficiently narrowing scope and making necessary trade-offs under pressure",
                                 "Clear communication and team coordination",
                                 "Task prioritization and execution",
                                 "Finishing over perfection"
                             ]
                         },
                         "fr": {
-                            "title": "Participation au {{Global Game Jam 2025}}",
+                            "title": "Participation au {{Global Game Jam 2026}}",
                             "province": "Halifax",
                             "country": "Canada",
                             "institution": "Dalhousie University x ShiftKey Labs",
-                            "text": "Participation au Global Game Jam 2025 à Dalhousie University en partenariat avec ShiftKey Labs. En un week-end intense, notre équipe a conçu et développé un jeu mystère avec Unity, du concept au prototype jouable.",
+                            "text": "Participation au Global Game Jam 2026 à Dalhousie University en partenariat avec ShiftKey Labs. En un week-end intense, notre équipe a conçu et développé un jeu mystère avec Unity, du concept au prototype jouable.",
                             "list": [
                                 "Définition rapide du scope et compromis sous pression",
                                 "Communication claire en équipe",
