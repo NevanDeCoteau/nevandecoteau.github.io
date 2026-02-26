@@ -13,10 +13,8 @@
         "title_long_prefix": "Explorez",
         "title_long": "Mes {{Compétences}}"
       }
-      
     }
   },
-
   "articles": [
     {
       "id": 1,
@@ -34,7 +32,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "date": { "year": null, "month": null },
           "link": { "href": "", "tooltipString": "" },
-            "locales": {
+          "locales": {
             "en": {
               "title": "{{Web}} development",
               "text": "Full-stack web development with modern frameworks, turning product ideas into responsive, production-ready experiences."
@@ -52,7 +50,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "date": { "year": null, "month": null },
           "link": { "href": "", "tooltipString": "" },
-            "locales": {
+          "locales": {
             "en": {
               "title": "Mobile {{apps}}",
               "text": "Cross-platform mobile apps with React Native, from prototypes to polished features."
@@ -70,7 +68,7 @@
           "faIconColors": { "bg": "", "fill": "" },
           "date": { "year": null, "month": null },
           "link": { "href": "", "tooltipString": "" },
-            "locales": {
+          "locales": {
             "en": {
               "title": "{{Database}} & data",
               "text": "Designing schemas and working with relational and embedded databases like SQLite."
@@ -88,14 +86,14 @@
           "faIconColors": { "bg": "", "fill": "" },
           "date": { "year": null, "month": null },
           "link": { "href": "", "tooltipString": "" },
-            "locales": {
+          "locales": {
             "en": {
               "title": "{{APIs}} & automation",
               "text": "Building REST APIs and automation workflows, including event-driven pipelines and integrations using tools like n8n."
             },
             "fr": {
               "title": "APIs & {{automatisation}}",
-              "text": "Création d’APIs REST et de flux d’automatisation pour connecter les services et simplifier les tâches."
+              "text": "Création d’APIs REST et de flux d’automatisation, incluant des pipelines événementiels et des intégrations avec des outils comme n8n."
             }
           }
         },
@@ -106,20 +104,19 @@
           "faIconColors": { "bg": "", "fill": "" },
           "date": { "year": null, "month": null },
           "link": { "href": "", "tooltipString": "" },
-            "locales": {
+          "locales": {
             "en": {
               "title": "Cloud & {{DevOps}}",
               "text": "Foundational cloud skills with AWS and experience deploying and managing projects."
             },
             "fr": {
               "title": "Cloud & {{DevOps}}",
-              "text": "Compétences fondamentales en cloud avec AWS et expérience de déploiement et gestion de projets."
+              "text": "Compétences fondamentales en cloud avec AWS et expérience dans le déploiement et la gestion de projets."
             }
           }
         }
       ]
     },
-
     {
       "id": 2,
       "component": "ArticleSkills",
@@ -148,6 +145,11 @@
               "title": "Node.js",
               "text": "Building REST APIs and backend services with Node.js and TypeScript.",
               "level": ""
+            },
+            "fr": {
+              "title": "Node.js",
+              "text": "Création d’APIs REST et de services backend avec Node.js et TypeScript.",
+              "level": ""
             }
           }
         },
@@ -162,6 +164,11 @@
             "en": {
               "title": "SQLite & SQL",
               "text": "Designing schemas and writing efficient queries for project backends.",
+              "level": ""
+            },
+            "fr": {
+              "title": "SQLite & SQL",
+              "text": "Conception de schémas et écriture de requêtes efficaces pour les backends de projets.",
               "level": ""
             }
           }
@@ -178,6 +185,11 @@
               "title": "Python",
               "text": "Scripting, data processing, and experimentation with ML basics.",
               "level": ""
+            },
+            "fr": {
+              "title": "Python",
+              "text": "Scripting, traitement de données et expérimentation avec les bases du machine learning.",
+              "level": ""
             }
           }
         },
@@ -192,6 +204,11 @@
             "en": {
               "title": "AWS",
               "text": "AWS Certified Cloud Practitioner with hands-on project deployment experience.",
+              "level": ""
+            },
+            "fr": {
+              "title": "AWS",
+              "text": "Certifié AWS Cloud Practitioner avec expérience pratique en déploiement de projets.",
               "level": ""
             }
           }
@@ -208,27 +225,36 @@
               "title": "Git & GitHub",
               "text": "Daily use of Git for version control, collaboration, and open-source style workflows.",
               "level": ""
+            },
+            "fr": {
+              "title": "Git & GitHub",
+              "text": "Utilisation quotidienne de Git pour le contrôle de version, la collaboration et des workflows type open-source.",
+              "level": ""
             }
           }
         },
         {
-        "id": 6,
-        "img": "",
-        "faIcon": "fa-solid fa-diagram-project",
-        "faIconColors": { "bg": "", "fill": "#FF6D00" },
-        "date": { "year": 2025, "month": 2 },
-        "percentage": 65,
-        "locales": {
+          "id": 6,
+          "img": "",
+          "faIcon": "fa-solid fa-diagram-project",
+          "faIconColors": { "bg": "", "fill": "#FF6D00" },
+          "date": { "year": 2025, "month": 2 },
+          "percentage": 65,
+          "locales": {
             "en": {
-            "title": "n8n Automation",
-            "text": "Designing and deploying automation workflows in n8n, including API integrations, content pipelines, scheduled jobs, and event-driven processes.",
-            "level": ""
+              "title": "n8n Automation",
+              "text": "Designing and deploying automation workflows in n8n, including API integrations, content pipelines, scheduled jobs, and event-driven processes.",
+              "level": ""
+            },
+            "fr": {
+              "title": "Automatisation n8n",
+              "text": "Conception et déploiement de flux d’automatisation dans n8n, incluant intégrations API, pipelines de contenu, tâches planifiées et processus événementiels.",
+              "level": ""
             }
-        }
+          }
         }
       ]
     },
-
     {
       "id": 3,
       "component": "ArticleSkills",
@@ -257,6 +283,11 @@
               "title": "React",
               "text": "Building modern SPAs and dashboards with React and component-based design.",
               "level": ""
+            },
+            "fr": {
+              "title": "React",
+              "text": "Développement de SPA modernes et de tableaux de bord avec React et une architecture basée sur les composants.",
+              "level": ""
             }
           }
         },
@@ -265,12 +296,17 @@
           "img": "",
           "faIcon": "fa-brands fa-react",
           "faIconColors": { "bg": "", "fill": "#61DAFB" },
-          "date": { "year": 2024, "month": 2 },
+          "date": { "year": 2025, "month": 1 },
           "percentage": 85,
           "locales": {
             "en": {
               "title": "React Native",
               "text": "Developing cross-platform mobile apps like a fitness tracker with React Native.",
+              "level": ""
+            },
+            "fr": {
+              "title": "React Native",
+              "text": "Développement d’applications mobiles multiplateformes comme un tracker de fitness avec React Native.",
               "level": ""
             }
           }
@@ -287,6 +323,11 @@
               "title": "TypeScript & JS",
               "text": "Writing type-safe, maintainable frontend and backend code in TypeScript and JavaScript.",
               "level": ""
+            },
+            "fr": {
+              "title": "TypeScript & JS",
+              "text": "Écriture de code frontend et backend maintenable et typé avec TypeScript et JavaScript.",
+              "level": ""
             }
           }
         },
@@ -302,18 +343,22 @@
               "title": "HTML & CSS",
               "text": "Crafting responsive layouts with semantic HTML and modern CSS.",
               "level": ""
+            },
+            "fr": {
+              "title": "HTML & CSS",
+              "text": "Création de mises en page responsives avec du HTML sémantique et du CSS moderne.",
+              "level": ""
             }
           }
         }
       ]
     },
-
     {
       "id": 4,
       "component": "ArticleSkills",
       "locales": {
-        "en": { "title": "" },
-        "fr": { "title": "" },
+        "en": { "title": "Languages" },
+        "fr": { "title": "Langues" },
         "zh": { "title": "语言" }
       },
       "settings": {
@@ -323,9 +368,7 @@
         "order_items_sort": "asc",
         "round_icons": true
       },
-      "items": [
-        
-      ]
+      "items": []
     }
   ]
 }
