@@ -393,7 +393,7 @@
           "faIcon": "fa-solid fa-c",
           "faIconColors": { "bg": "", "fill": "#A8B9CC" },
           "date": { "year": 2021, "month": 9 },
-          "percentage": 65,
+          "percentage": 60,
           "locales": {
             "en": {
               "title": "C",
