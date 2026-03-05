@@ -43,14 +43,14 @@
         {
           "id": 1,
           "categoryId": "category_web",
-          "img": "images/pictures/portfolio-appliance-finder.png",
+          "img": "images/pictures/AppliFindCover.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
             "links": [
               { "href": "https://github.com/NevanDeCoteau/appliance-finder", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
-            "screenshots": [],
+            "screenshots": ["/images/pictures/AppliFind.png"],
             "screenshotsAspectRatio": "16:9",
             "youtubeVideo": ""
           },
@@ -69,21 +69,23 @@
         {
           "id": 2,
           "categoryId": "category_apps",
-          "img": "images/pictures/portfolio-fitness-tracker.png",
+          "img": "images/pictures/FitnessTrackerCover.jpeg",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
             "links": [
               { "href": "https://github.com/NevanDeCoteau/fitness-app", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
-            "screenshots": [],
+            "screenshots": ["/images/pictures/FitnessTracker.jpeg", "/images/pictures/FitnessTracker2.jpeg", 
+            "/images/pictures/FitnessTracker3.jpeg", 
+            "/images/pictures/FitnessTracker5.jpeg"],
             "screenshotsAspectRatio": "9:16",
             "youtubeVideo": ""
           },
           "locales": {
             "en": {
               "title": "Target",
-              "text": "Holistic health tracking app combining sleep, diet, and workouts into one dashboard for personalized insights. Developed with <b>React Native</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b>.",
+              "text": "Holistic health tracking app combining sleep, diet, and workouts into one dashboard for personalized insights. (Still under development) Developed with <b>React Native</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b>.",
               "tags": ["React Native", "TypeScript", "Health Tracking"]
             },
             "fr": {
@@ -95,14 +97,16 @@
         {
           "id": 3,
           "categoryId": "category_web",
-          "img": "images/pictures/portfolio-dachemisride.jpg",
+          "img": "images/pictures/NSMoveCover.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
             "links": [
               { "href": "https://github.com/NevanDeCoteau/dalchemists_rideshare", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
             ],
-            "screenshots": [],
+            "screenshots": ["/images/pictures/NSMove1.png", "/images/pictures/NSMove2.png",
+             "/images/pictures/NSMove3.png", "/images/pictures/NSMove4.png",
+            "images/pictures/NSMove5.png", "images/pictures/NSMove6.png"],
             "screenshotsAspectRatio": "16:9",
             "youtubeVideo": ""
           },
@@ -121,7 +125,7 @@
         {
           "id": 4,
           "categoryId": "category_utilities",
-          "img": "images/pictures/portfolio-n8n-content-automation.png",
+          "img": "images/pictures/n8nCover.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": { "links": [], "screenshots": [
