@@ -1,0 +1,31 @@
+{
+    "name": "Nevan De Coteau",
+
+    "profilePictureUrl": "images/pictures/nevan-pic.jpeg",
+    "resumePdfUrl": "https://dalu-my.sharepoint.com/:b:/g/personal/nv400694_dal_ca/IQDnJD3JImBGQqVppA4Y1FAKASjneKkEiHnS8cdDZjHc7D4?e=Iz0Hpn",
+
+    "statusCircleVisible": false,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Nevan De Coteau",
+            "localized_name_stylized": " [[Nevan {{De Coteau}}]]",
+            "status_message_available_for_freelance": "",
+            "roles": [
+                "Student",
+                "React Developer"
+            ],
+            "name_pronunciation_ipa": "/neh vahn/",
+            "name_pronunciation_audio_url": ""
+        },
+        "fr": {
+            "status_message_available_for_freelance": "Disponible pour freelance !",
+            "roles": [
+                "Développeur React",
+                "Student"
+            ]
+        }
+    }
+}

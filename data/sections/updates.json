@@ -1,0 +1,408 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "fr": {
+                "title_short": "Vie Récente",
+                "title_short_nav": "Mises à Jour",
+                "title_long_prefix": "Découvrez mes",
+                "title_long": "Dernières {{Mises à Jour}}"
+            }
+            
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-mobile-android",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "03+",
+                            "text": "Apps & Projects Built"
+                        },
+                        "fr": {
+                            "text": "Applications et Projets Créés"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-star",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "5+",
+                            "text": "Hackathons & Certifications"
+                        },
+                        "fr": {
+                            "text": "Hackathons et Certifications"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-plane",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "2",
+                            "text": "Countries Represented"
+                        },
+                        "fr": {
+                            "text": "Pays Représentés"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-mug-hot",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "5,000+",
+                            "text": "Coffees During Late Nights"
+                        },
+                        "fr": {
+                            "text": "Cafés Pendant Nuits Blanches"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "500,000+",
+                            "text": "Lines of Code Written"
+                        },
+                        "fr": {
+                            "text": "Lignes de Code Écrites"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Infinite",
+                            "text": "Passion for Learning & Building"
+                        },
+                        "fr": {
+                            "title": "Infinite",
+                            "text": "Passion pour Apprendre et Construire"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Recent {{Highlights}}" },
+                "fr": { "title": "Points forts {{Récents}}" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2025, "month": 12},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "Earned 5th {{Kyu in Kendo!}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Achieved 5th kyu rank in kendo after just a few months of practice in Halifax. Loving this martial art and aiming for ikkyu (brown belt equivalent) next!"
+                        },
+                        "fr": {
+                            "title": "5e {{Kyu en Kendo!}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Atteint le 5e kyu en kendo après quelques mois de pratique à Halifax. J'adore cet art martial et vise l'ikkyu (équivalent ceinture marron)!"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2025, "month": 11},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.dal.ca/", "tooltipString": "open_website", "faIcon": "fa-solid fa-graduation-cap"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "Collide & {{Ai2Market Discover}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Completed two entrepreneurship programs: Collide Discover and Ai2Market Discover. Gained tools for business planning, pitching, and startup foundations."
+                        },
+                        "fr": {
+                            "title": "Collide & {{Ai2Market Discover}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Terminé deux programmes d'entrepreneuriat : Collide Discover et Ai2Market Discover. Outils acquis pour planification, pitch et bases startup."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2025, "month": 10},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.dal.ca/", "tooltipString": "dalhousie_sla", "faIcon": "fa-solid fa-users"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "Dalhousie {{SLA Fall Conference}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Student Leadership Academy",
+                            "text": "Attended Fall Conference with keynotes on self-building, motivation, and non-profit presentations. Planning capstone project tackling social issues."
+                        },
+                        "fr": {
+                            "title": "Conférence Automne {{SLA Dalhousie}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Student Leadership Academy",
+                            "text": "Participé à la Conférence Automne avec keynotes sur développement personnel, motivation et ONGs. Projet capstone social prévu."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {"year": 2025, "month": 9},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.linkedin.com/in/reeseochitwa/", "tooltipString": "team_link", "faIcon": "fa-brands fa-linkedin"},
+                            {"href": "https://github.com/", "tooltipString": "github_repo", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "RBC {{HubHacks Honourable Mention!}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Team awarded Honourable Mention at RBC HubHacks for rideshare app solving community transit gaps with incentives and data for policymakers.",
+                            "list": [
+                                "Free rides for vulnerable groups with gas discounts",
+                                "Real-time matching and route optimization",
+                                "Teammates: Reese Ochitwa, Arsalan Salamat, Omar Shakil Ali"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Mention Honorable {{HubHacks RBC!}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Équipe mention honorable RBC HubHacks pour app covoiturage comblant lacunes transit communautaire.",
+                            "list": [
+                                "Trajets gratuits pour vulnérables avec réductions essence",
+                                "Matching temps réel et optimisation itinéraires",
+                                "Équipiers: Reese Ochitwa, Arsalan Salamat, Omar Shakil Ali"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {"year": 2025, "month": 7},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "Phi Kappa Pi {{Charity Push-ups}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Helped with fraternity charity event for Feed Nova Scotia: 1 push-up per dollar donated. Fun way to give back to community while staying fit!"
+                        },
+                        "fr": {
+                            "title": "Phi Kappa Pi {{Pompes Caritatives}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Aidés événement fraternité Feed Nova Scotia : 1 pompe par dollar donné. Manière fun de redonner à communauté en restant fit!"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "date": {"year": 2025, "month": 6},
+                    "preview": {
+                        "links": [
+                            {"href": "https://lnkd.in/eUBwMAmz", "tooltipString": "view_certificate", "faIcon": "fa-solid fa-certificate"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "AWS {{Certified Cloud Practitioner!}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Amazon Web Services",
+                            "text": "Earned AWS Cloud Practitioner certification. Excited to apply cloud skills to scale projects and solve real-world tech challenges."
+                        },
+                        "fr": {
+                            "title": "AWS {{Cloud Practitioner Certifié!}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Amazon Web Services",
+                            "text": "Obtenu certification AWS Cloud Practitioner. Excité d'appliquer compétences cloud pour projets et défis tech réels."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "date": {"year": 2025, "month": 5},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "ShiftKey Labs {{ML Certificate}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "ShiftKey Labs",
+                            "text": "Completed 2025 Machine Learning Certificate. Ready to integrate ML into apps and automation workflows."
+                        },
+                        "fr": {
+                            "title": "Certificat {{ML ShiftKey Labs}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "ShiftKey Labs",
+                            "text": "Terminé Certificat Machine Learning 2025. Prêt à intégrer ML dans apps et automatisations."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "date": {"year": 2025, "month": 4},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.dal.ca/", "tooltipString": "caribbean_connection", "faIcon": "fa-solid fa-handshake"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                        "locales": {
+                        "en": {
+                            "title": "Treasurer, Dalhousie {{Caribbean Connection}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie Caribbean Connection",
+                            "text": "Appointed Treasurer for the upcoming year. Focused on financial transparency, sustainability, and supporting society initiatives."
+                        },
+                        "fr": {
+                            "title": "Trésorier, {{Caribbean Connection Dalhousie}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie Caribbean Connection",
+                            "text": "Nommé Trésorier pour l'année prochaine. Focus transparence financière, durabilité et initiatives société."
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "date": { "year": 2026, "month": 1 },
+                    "preview": {
+                        "links": [
+                            { "href": "https://globalgamejam.org/games/2026/veiled-visions-5", "tooltipString": "global_game_jam", "faIcon": "fa-solid fa-gamepad" },
+                            { "href": "https://shiftkeylabs.ca", "tooltipString": "shiftkey_labs", "faIcon": "fa-solid fa-graduation-cap" }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Competed in the {{2026 Global Game Jam}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University x ShiftKey Labs",
+                            "text": "Participated in the 2026 Global Game Jam at Dalhousie University in partnership with ShiftKey Labs. Over one intense weekend, our team designed and built a murder mystery game in Unity from concept to playable prototype. Had to shake off the rust with Unity, but the experience was a huge win.",
+                            "list": [
+                                "Efficiently narrowing scope and making necessary trade-offs under pressure",
+                                "Clear communication and team coordination",
+                                "Task prioritization and execution",
+                                "Finishing over perfection"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Participation au {{Global Game Jam 2026}}",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University x ShiftKey Labs",
+                            "text": "Participation au Global Game Jam 2026 à Dalhousie University en partenariat avec ShiftKey Labs. En un week-end intense, notre équipe a conçu et développé un jeu mystère avec Unity, du concept au prototype jouable.",
+                            "list": [
+                                "Définition rapide du scope et compromis sous pression",
+                                "Communication claire en équipe",
+                                "Priorisation et gestion des tâches",
+                                "Terminer plutôt que viser la perfection"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

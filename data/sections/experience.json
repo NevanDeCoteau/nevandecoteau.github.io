@@ -1,0 +1,105 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Experience",
+        "title_short_nav": "Experience",
+        "title_long_prefix": "Summary of my",
+        "title_long": "{{Work}} Experience"
+      },
+      "fr": {
+        "title_short": "Expérience",
+        "title_short_nav": "Expérience",
+        "title_long_prefix": "Résumé de mon",
+        "title_long": "Parcours {{Professionnel}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "dateStart"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "",
+          "faIcon": "fa-solid fa-vr-cardboard",
+          "faIconColors": { "bg": "#1b1b1b", "fill": "#e8e6e3" },
+          "dateStart": { "year": 2022, "month": 6 },
+          "dateEnd": { "year": 2022, "month": 8 },
+          "locales": {
+            "en": {
+              "title": "{{Software Development}} Intern",
+              "province": "",
+              "country": "Trinidad and Tobago",
+              "institution": "Guardian Group",
+              "text": "Collaborated on the development of a multi-user virtual 3D environment built with Unity, integrating modern technologies within an Agile development workflow.",
+              "list": [
+                "Designed and implemented components of a shared 3D virtual environment using Unity and C#",
+                "Contributed to features supporting multiple concurrent users",
+                "Worked with Web3 and cryptocurrency-related concepts",
+                "Participated in weekly Agile SCRUM meetings to meet development milestones"
+              ],
+              "tags": ["Unity", "C#", "Agile", "SCRUM", "Web3"]
+            },
+            "fr": {
+              "title": "Stagiaire en {{Développement Logiciel}}",
+              "province": "",
+              "country": "Trinité-et-Tobago",
+              "institution": "Guardian Group",
+              "text": "Collaboration au développement d’un environnement virtuel 3D multi-utilisateur conçu avec Unity, en intégrant des technologies modernes dans un cadre Agile.",
+              "list": [
+                "Conception et implémentation de composants d’un environnement virtuel 3D partagé avec Unity et C#",
+                "Contribution aux fonctionnalités supportant plusieurs utilisateurs simultanés",
+                "Travail avec des concepts liés au Web3 et aux cryptomonnaies",
+                "Participation aux réunions SCRUM hebdomadaires pour atteindre les objectifs de développement"
+              ],
+              "tags": ["Unity", "C#", "Agile", "SCRUM", "Web3"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "faIcon": "fa-solid fa-building-columns",
+          "faIconColors": { "bg": "#1b1b1b", "fill": "#e8e6e3" },
+          "dateStart": { "year": 2024, "month": 1 },
+          "dateEnd": { "year": 2024, "month": 7 },
+          "locales": {
+            "en": {
+              "title": "{{Assistant ICT}} Technical Officer",
+              "province": "",
+              "country": "Trinidad and Tobago",
+              "institution": "Ministry of Public Administration",
+              "text": "Supported large-scale IT operations by managing, deploying, and maintaining hundreds of organizational IT assets while resolving recurring software and system issues.",
+              "list": [
+                "Deployed and maintained laptops, desktops, and peripherals across multiple departments",
+                "Diagnosed and resolved persistent software issues, reducing data input workflows from hours to minutes",
+                "Provided technical support to end users and ensured system reliability"
+              ],
+              "tags": ["IT Support", "Asset Management", "System Troubleshooting", "Windows", "Networking"]
+            },
+            "fr": {
+              "title": "Agent Technique {{ICT Adjoint}}",
+              "province": "",
+              "country": "Trinité-et-Tobago",
+              "institution": "Ministry of Public Administration",
+              "text": "Soutien aux opérations informatiques à grande échelle par la gestion, le déploiement et la maintenance de centaines d’actifs IT organisationnels, tout en résolvant des problèmes logiciels et systèmes récurrents.",
+              "list": [
+                "Déploiement et maintenance d’ordinateurs portables, postes de travail et périphériques dans plusieurs départements",
+                "Diagnostic et résolution de problèmes logiciels persistants, réduisant les flux de saisie de données de plusieurs heures à quelques minutes",
+                "Support technique aux utilisateurs finaux et garantie de la fiabilité des systèmes"
+              ],
+              "tags": ["Support IT", "Gestion des Actifs", "Dépannage Système", "Windows", "Réseaux"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

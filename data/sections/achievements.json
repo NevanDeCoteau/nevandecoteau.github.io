@@ -1,0 +1,224 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Awards",
+        "title_short_nav": "Achievements",
+        "title_long_prefix": "Here are my",
+        "title_long": "Career {{Achievements}}"
+      },
+      "fr": {
+        "title_short": "Réalis",
+        "title_short_nav": "Réalisations",
+        "title_long_prefix": "Voici",
+        "title_long": "Mes {{Réalisations}}"
+      }
+      
+      
+    }
+  },
+
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleCards",
+      "locales": {
+        "en": { "title": "Certifications" },
+        "fr": { "title": "Certifications" }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+          {
+          "id": 1,
+          "img": "",
+          "faIcon": "fa-brands fa-aws",
+          "faIconColors": { "bg": "#FF9900", "fill": "#111" },
+          "date": { "year": 2025, "month": 12 },
+          "link": { "href": "https://www.credly.com/badges/fa75a832-ad71-4eef-adc3-de9d42c4389f/public_url", "tooltipString": "see_certification" },
+          "locales": {
+            "en": {
+              "title": "AWS {{Certified Cloud Practitioner}}",
+              "text": "Foundational certification validating AWS Cloud knowledge, core services, pricing, and best practices."
+            },
+            "fr": {
+              "text": "Certification fondamentale validant les connaissances AWS Cloud, services principaux, tarification et bonnes pratiques."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "faIcon": "fa-solid fa-brain",
+          "faIconColors": { "bg": "#4285F4", "fill": "#FFF" },
+          "date": { "year": 2025, "month": 5 },
+          "link": { "href": "https://credsverse.com/credentials/58de1e78-2362-4404-98ba-232830ef670e", "tooltipString": "see_certification" },
+          "locales": {
+            "en": {
+              "title": "{{Machine Learning Basics}} – ShiftKey Labs",
+              "text": "Hands-on course covering fundamental ML models, building pipelines, and AI exploration."
+            },
+            "fr": {
+              "text": "Cours pratique couvrant les modèles ML fondamentaux, pipelines de construction et exploration IA."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "faIcon": "fa-solid fa-heart-pulse",
+          "faIconColors": { "bg": "#6B7280", "fill": "#FFF" },
+          "date": { "year": 2025, "month": 2 },
+          "link": {
+              "href": "https://www.mentalhealthcommission.ca/",
+              "tooltipString": "see_certification"
+          },
+          "locales": {
+            "en": {
+            "title": "{{Inquiring Minds}} – Post-Secondary Mental Health Certificate",
+            "text": "Certification issued by the Mental Health Commission of Canada, focused on mental health literacy, stigma reduction, and supporting student well-being in post-secondary environments."
+            },
+            "fr": {
+            "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "component": "ArticleThread",
+      "locales": {
+        "en": { "title": "Awards" },
+        "fr": { "title": "Récompenses" }
+      },
+      "settings": {
+        "max_rows_collapse_threshold": 4,
+        "order_items_by": "date",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "date": { "year": 2025, "month": 10 },
+          "preview": {
+            "links": [
+              { "href": "https://www.nscc.ca/about/news/stories/2025/nscc-wins-rbc-hubhacks-2025.asp", "tooltipString": "read_article", "faIcon": "fa-solid fa-link" }
+            ],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+            "locales": {
+            "en": {
+              "title": "{{Honorable Mention}} – RBC HubHacks 2025",
+              "province": "Nova Scotia",
+              "country": "Canada",
+              "institution": "RBC HubHacks",
+              "text": "Team member of Dalchemists, the runner-up team in a hackathon that dealt with tackling real-world transportation issues for underprivileged communities via tech solutions."
+            },
+            "fr": {
+              "title": "{{Mention Honorable}} – RBC HubHacks 2025",
+              "province": "Nouvelle-Écosse",
+              "country": "Canada",
+              "institution": "RBC HubHacks",
+              "text": "Membre d'équipe primé Mention Honorable 2e place pour Dachemisride, résolvant problèmes de transport réels pour communautés défavorisées via solutions tech."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "date": { "year": 2025, "month": 12 },
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "{{Sexton Scholar}} – Dalhousie University",
+              "province": "Nova Scotia",
+              "country": "Canada",
+              "institution": "Dalhousie University",
+              "text": "Maintained Cumulative GPA of 4.06/4.3 in Bachelor of Applied Computer Science program, demonstrating consistent high performance."
+            },
+            "fr": {
+              "title": "{{Excellence Académique}} – Université Dalhousie",
+              "province": "Nouvelle-Écosse",
+              "country": "Canada",
+              "institution": "Université Dalhousie",
+              "text": "Maintenu une moyenne cumulative de 4.06/4.3 au programme Baccalauréat en informatique appliquée, démontrant un rendement élevé constant."
+            }
+          }
+        },
+        {
+        "id": 5,
+        "date": { "year": 2023, "month": 12 },
+        "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
+        "locales": {
+          "en": {
+          "title": "{{ICT Additional Scholarship}} – Government of Trinidad and Tobago",
+          "province": "",
+          "country": "Trinidad and Tobago",
+          "institution": "Government of Trinidad and Tobago",
+          "text": "Awarded to top-performing students in ICT subject groupings, providing financial support for local or international tertiary studies."
+          },
+          "fr": {
+          "title": "{{Bourse ICT Supplémentaire}} – Gouvernement de Trinité-et-Tobago",
+          "province": "",
+          "country": "Trinité-et-Tobago",
+          "institution": "Gouvernement de Trinité-et-Tobago",
+          "text": "Attribuée aux étudiants les plus performants en ICT, offrant un soutien financier pour études supérieures."
+          }
+        }
+        },
+        {
+        "id": 6,
+        "date": { "year": 2022, "month": 10 },
+        "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
+        "locales": {
+          "en": {
+          "title": "{{Fr. Brett Cup}} – Fatima College",
+          "province": "Port of Spain",
+          "country": "Trinidad and Tobago",
+          "institution": "Fatima College",
+          "text": "Awarded to the top-performing student for the academic year, recognizing outstanding academic achievement."
+          },
+          "fr": {
+          "title": "{{Coupe Fr. Brett}} – Fatima College",
+          "province": "Port of Spain",
+          "country": "Trinité-et-Tobago",
+          "institution": "Fatima College",
+          "text": "Décernée à l'étudiant le plus performant de l'année académique."
+          }
+        }
+        },
+        {
+        "id": 7,
+        "date": { "year": 2022, "month": 9 },
+        "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
+        "locales": {
+            "en": {
+            "title": "{{House Captain}} – Fatima College",
+            "province": "Port of Spain",
+            "country": "Trinidad and Tobago",
+            "institution": "Fatima College",
+            "text": "Selected as House Captain, leading student teams and managing inter-house competitions and extracurricular activities."
+            },
+            "fr": {
+            "title": "{{Capitaine de Maison}} – Fatima College",
+            "province": "Port of Spain",
+            "country": "Trinité-et-Tobago",
+            "institution": "Fatima College",
+            "text": "Choisi comme capitaine de maison, responsable du leadership étudiant et des compétitions inter-maisons."
+            }
+        }
+        }
+      ]
+    }
+  ]
+}

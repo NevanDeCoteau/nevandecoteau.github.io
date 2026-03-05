@@ -1,0 +1,150 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Portfolio",
+        "title_short_nav": "Portfolio",
+        "title_long_prefix": "Take a look at",
+        "title_long": "My {{Portfolio}}"
+      },
+      "fr": {
+        "title_short": "Portfolio",
+        "title_short_nav": "Portfolio",
+        "title_long_prefix": "Découvrez",
+        "title_long": "Mon {{Portfolio}}"
+      }
+    }
+  },
+
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "category_all": "All",
+          "category_apps": "Apps",
+          "category_web": "Web",
+          "category_utilities": "Utilities"
+        },
+        "fr": {
+          "category_all": "Tout",
+          "category_apps": "Apps",
+          "category_web": "Web",
+          "category_utilities": "Utilitaires"
+        }
+      },
+      "settings": {
+        "categorize_by": ["category_apps", "category_web", "category_utilities"],
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "categoryId": "category_web",
+          "img": "images/pictures/AppliFindCover.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              { "href": "https://github.com/NevanDeCoteau/appliance-finder", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
+            ],
+            "screenshots": ["/images/pictures/AppliFind.png"],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Campus Appliance Finder",
+              "text": "A mobile-first web app that lets Dalhousie students locate fridges and microwaves across campus with an interactive map and real-time markers. Built with <b>React</b>, <b>TypeScript</b>, and <b>SQLite</b> for local data storage.",
+              "tags": ["React", "TypeScript", "SQLite", "Campus Utility"]
+            },
+            "fr": {
+              "text": "Une application web mobile-first permettant aux étudiants de Dalhousie de localiser réfrigérateurs et micro-ondes sur le campus via une carte interactive. Construite avec <b>React</b>, <b>TypeScript</b> et <b>SQLite</b>.",
+              "tags": ["React", "TypeScript", "SQLite"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "categoryId": "category_apps",
+          "img": "images/pictures/FitnessTrackerCover.jpeg",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              { "href": "https://github.com/NevanDeCoteau/fitness-app", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
+            ],
+            "screenshots": ["/images/pictures/FitnessTracker.jpeg", "/images/pictures/FitnessTracker2.jpeg", 
+            "/images/pictures/FitnessTracker3.jpeg", 
+            "/images/pictures/FitnessTracker5.jpeg"],
+            "screenshotsAspectRatio": "9:16",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Target",
+              "text": "Holistic health tracking app combining sleep, diet, and workouts into one dashboard for personalized insights. (Still under development) Developed with <b>React Native</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b>.",
+              "tags": ["React Native", "TypeScript", "Health Tracking"]
+            },
+            "fr": {
+              "text": "Application de suivi santé holistique intégrant sommeil, alimentation et entraînements pour des insights personnalisés. Développée avec <b>React Native</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>HTML</b> et <b>CSS</b>.",
+              "tags": ["React Native", "TypeScript"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "categoryId": "category_web",
+          "img": "images/pictures/NSMoveCover.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              { "href": "https://github.com/NevanDeCoteau/dalchemists_rideshare", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github" }
+            ],
+            "screenshots": ["/images/pictures/NSMove1.png", "/images/pictures/NSMove2.png",
+             "/images/pictures/NSMove3.png", "/images/pictures/NSMove4.png",
+            "images/pictures/NSMove5.png", "images/pictures/NSMove6.png"],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "NS Move",
+              "text": "Web app (Honorable Mention at RBC HubHacks 2025) solving transportation challenges for underprivileged communities with carpool matching and real-time ridesharing. Built using <b>React</b> and <b>TypeScript</b>.",
+              "tags": ["React", "TypeScript", "Hackathon", "Transportation"]
+            },
+            "fr": {
+              "text": "Application web primée au hackathon (Honorable Mention RBC HubHacks 2025) résolvant les défis de transport pour communautés défavorisées via covoiturage et partage en temps réel. Avec <b>React</b> et <b>TypeScript</b>.",
+              "tags": ["React", "TypeScript", "Hackathon"]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "categoryId": "category_utilities",
+          "img": "images/pictures/n8nCover.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [
+            "images/pictures/n8n-pic.png"
+          ], 
+          "screenshotsAspectRatio": "16:9", "youtubeVideo": "" },
+          "locales": {
+            "en": {
+              "title": "Automated Content Generation & Publishing System",
+              "text": "An AI-powered content automation pipeline built with <b>n8n</b> that generates, enriches, and automatically publishes content across platforms. Designed to support scalable content marketing and SEO by handling ideation, formatting, and scheduled posting with minimal manual intervention.",
+              "tags": ["n8n", "Automation", "Content Marketing", "SEO", "AI"]
+            },
+            "fr": {
+              "text": "Pipeline d’automatisation de contenu basé sur l’IA, développé avec <b>n8n</b>, permettant la génération et la publication automatiques de contenu. Conçu pour le marketing de contenu et l’optimisation SEO à grande échelle.",
+              "tags": ["n8n", "Automatisation", "SEO", "IA"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

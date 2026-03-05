@@ -1,0 +1,149 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Hello!",
+                "title_long": "I'm {{Nevan De Coteau!}}"
+            },
+            "fr": {
+                "title_short": "Salut !",
+                "title_short_nav": "À propos",
+                "title_long_prefix": "Salut...",
+                "title_long": "Je suis {{Nevan De Coteau!}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Halfax – NS",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "nevandecoteau@gmail.com",
+                    "link": {"href": "nevandecoteau@gmail.com", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "@nevandecoteau",
+                    "link": {"href": "https://github.com/nevandecoteau", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+                "locales": {
+                "en": {"title": "{{A little bit}} about me..."},
+                "fr": {"title": "{{Un peu}} à propos de moi..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/bitmoji.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                        "locales": {
+                        "en": {
+                            "text": "<p>I am a 2nd year Applied Computer Science student at Dalhousie University with a strong foundation in software engineering, algorithms, and database systems. I have hands-on experience working in IT operations and software-focused environments, including managing large-scale IT assets and contributing to collaborative, Agile-based development projects. I am particularly interested in building practical, user-focused software solutions and continuously developing my technical and leadership skills.</p>"
+                        },
+                        "fr": {
+                            "text": "<p>Je suis un étudiant de 2e année en informatique appliquée à l'Université Dalhousie, doté d'une solide formation en ingénierie logicielle, algorithmes et systèmes de bases de données. J'ai une expérience pratique en opérations informatiques et environnements axés sur le logiciel, incluant la gestion d'actifs informatiques à grande échelle et la contribution à des projets de développement collaboratifs basés sur Agile. Je suis particulièrement intéressé par la création de solutions logicielles pratiques et centrées sur l'utilisateur, tout en développant continuellement mes compétences techniques et en leadership.</p>"
+                        }
+                    }
+                }
+                
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{interests}}"},
+                "fr": {"title": "Intérêts {{personnels}} "}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-user-ninja",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Martial Arts}} - Kendo and Judo",
+                            "text": "Judoka and Kendoka - Actively practicing kendo at ShuuRenKan Kendo Club."
+                        },
+                        "fr": {
+                            "title": "{{Arts martiaux}} - Kendo et Judo",
+                            "text": "Judoka et kendoka — pratique activement le kendo au ShuuRenKan Kendo Club."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-music",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Music}} & Arts",
+                            "text": "I play the piano and dabble in digital music production."
+                        },
+                        "fr": {
+                            "title": "{{Musique}} & Arts",
+                            "text": "Je joue du piano et je m’essaie à la production musicale numérique."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-dumbbell",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Fitness}} and Health",
+                            "text": "I love a good workout and pride myself on healthy food choices!"
+                        },
+                        "fr": {
+                            "title": "{{Fitness}} et Santé",
+                            "text": "J’aime les bons entraînements et je suis fier de faire des choix alimentaires sains !"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
