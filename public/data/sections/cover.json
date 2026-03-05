@@ -96,14 +96,14 @@
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
-                        "locales": {
+                    "locales": {
                         "en": {
                             "title": "{{Martial Arts}} - Kendo and Judo",
                             "text": "Judoka and Kendoka - Actively practicing kendo at ShuuRenKan Kendo Club."
                         },
                         "fr": {
-                            "title": "Édition vidéo avec {{IA}}",
-                            "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "{{Arts martiaux}} - Kendo et Judo",
+                            "text": "Judoka et kendoka — pratique activement le kendo au ShuuRenKan Kendo Club."
                         }
                     }
                 },
@@ -114,14 +114,14 @@
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
-                        "locales": {
+                    "locales": {
                         "en": {
                             "title": "{{Music}} & Arts",
                             "text": "I play the piano and dabble in digital music production."
                         },
                         "fr": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                            "title": "{{Musique}} & Arts",
+                            "text": "Je joue du piano et je m’essaie à la production musicale numérique."
                         }
                     }
                 },
@@ -132,14 +132,14 @@
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
-                        "locales": {
+                    "locales": {
                         "en": {
                             "title": "{{Fitness}} and Health",
-                            "text": "I love a good workout and pride myself on helthy food choices!"
+                            "text": "I love a good workout and pride myself on healthy food choices!"
                         },
                         "fr": {
-                            "title": "{{Investissement}} & Finance",
-                            "text": "Apprendre les bases des actions et des finances personnelles."
+                            "title": "{{Fitness}} et Santé",
+                            "text": "J’aime les bons entraînements et je suis fier de faire des choix alimentaires sains !"
                         }
                     }
                 }
