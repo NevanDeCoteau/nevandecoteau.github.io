@@ -375,30 +375,108 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Competed in the {{2026 Global Game Jam}}",
+                            "title": "Lead Programmer on {{Veiled Visions}} – Global Game Jam",
                             "province": "Halifax",
                             "country": "Canada",
                             "institution": "Dalhousie University x ShiftKey Labs",
-                            "text": "Participated in the 2026 Global Game Jam at Dalhousie University in partnership with ShiftKey Labs. Over one intense weekend, our team designed and built a murder mystery game in Unity from concept to playable prototype. Had to shake off the rust with Unity, but the experience was a huge win.",
+                            "text": "Led development as Lead Programmer on Veiled Visions at the 2026 Global Game Jam, in partnership with ShiftKey Labs. Over one intense weekend, I architected the core gameplay systems and player mechanics in Unity and C#, coordinating a small team to scope, prioritize, and execute features within the 48-hour window.",
                             "list": [
+                                "Architected core gameplay systems and player mechanics using Unity and C#",
+                                "Coordinated a small team to scope, prioritize, and execute features under time pressure",
                                 "Efficiently narrowing scope and making necessary trade-offs under pressure",
-                                "Clear communication and team coordination",
-                                "Task prioritization and execution",
                                 "Finishing over perfection"
                             ]
                         },
                         "fr": {
-                            "title": "Participation au {{Global Game Jam 2026}}",
+                            "title": "Programmeur Principal sur {{Veiled Visions}} – Global Game Jam",
                             "province": "Halifax",
                             "country": "Canada",
                             "institution": "Dalhousie University x ShiftKey Labs",
-                            "text": "Participation au Global Game Jam 2026 à Dalhousie University en partenariat avec ShiftKey Labs. En un week-end intense, notre équipe a conçu et développé un jeu mystère avec Unity, du concept au prototype jouable.",
+                            "text": "Direction du développement en tant que programmeur principal sur Veiled Visions au Global Game Jam 2026, en partenariat avec ShiftKey Labs. En un week-end intense, j'ai conçu les systèmes de jeu principaux avec Unity et C#, en coordonnant une petite équipe pendant les 48 heures.",
                             "list": [
+                                "Conception des systèmes de jeu principaux avec Unity et C#",
+                                "Coordination d'une petite équipe sous pression",
                                 "Définition rapide du scope et compromis sous pression",
-                                "Communication claire en équipe",
-                                "Priorisation et gestion des tâches",
                                 "Terminer plutôt que viser la perfection"
                             ]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "date": { "year": 2025, "month": 9 },
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Joined {{ALPHA}} at St. Benedict's Catholic Church",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "St. Benedict's Catholic Church",
+                            "text": "Became a team member with ALPHA, facilitating group discussions and supporting participants in their faith journey while coordinating weekly session logistics for a welcoming, inclusive community."
+                        },
+                        "fr": {
+                            "title": "Rejoint {{ALPHA}} à St. Benedict's Catholic Church",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "St. Benedict's Catholic Church",
+                            "text": "Devenu membre de l'équipe ALPHA, animant des discussions de groupe et soutenant les participants dans leur cheminement de foi, tout en coordonnant la logistique des sessions hebdomadaires."
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "date": { "year": 2026, "month": 9 },
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Promoted to {{Vice President}}, Dalhousie Caribbean Society",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie Caribbean Society",
+                            "text": "Promoted from Treasurer to Vice President, now managing thousands of dollars in society finances, leading sponsor outreach and external partnerships, and presenting financial reports and budget recommendations to the executive board."
+                        },
+                        "fr": {
+                            "title": "Promu {{Vice-Président}}, Dalhousie Caribbean Society",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie Caribbean Society",
+                            "text": "Promu de trésorier à vice-président, gérant désormais les finances de la société, dirigeant la prospection de commanditaires et présentant les rapports financiers au bureau exécutif."
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "date": { "year": 2026, "month": 9 },
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Became an {{Off-Campus Mentor}} at Dalhousie",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Started mentoring first-year students, helping them transition to university life, organizing social and community-building activities, and coordinating with fellow mentors to foster an inclusive off-campus community."
+                        },
+                        "fr": {
+                            "title": "Devenu {{Mentor Hors-Campus}} à Dalhousie",
+                            "province": "Halifax",
+                            "country": "Canada",
+                            "institution": "Dalhousie University",
+                            "text": "Début du mentorat d'étudiants de première année, les aidant à s'adapter à la vie universitaire, organisant des activités sociales et coordonnant avec d'autres mentors pour favoriser une communauté hors-campus inclusive."
                         }
                     }
                 }

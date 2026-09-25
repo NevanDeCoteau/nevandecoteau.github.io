@@ -98,6 +98,46 @@
               "tags": ["Support IT", "Gestion des Actifs", "Dépannage Système", "Windows", "Réseaux"]
             }
           }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "faIcon": "fa-solid fa-code",
+          "faIconColors": { "bg": "#1b1b1b", "fill": "#e8e6e3" },
+          "dateStart": { "year": 2026, "month": 5 },
+          "dateEnd": { "year": 2026, "month": 8 },
+          "locales": {
+            "en": {
+              "title": "{{Web Application Developer}} Co-op",
+              "province": "Nova Scotia",
+              "country": "Canada",
+              "institution": "Bluedrop Training & Simulation",
+              "text": "Contributed to the development and maintenance of an internal logistics and product lifecycle management (PLM) web application supporting the development and manufacturing of flight simulators, working across the full stack in an Agile environment.",
+              "list": [
+                "Worked across the Vue.js frontend, C# backend, and SQL database, making changes throughout the application",
+                "Diagnosed and resolved bugs, improving application stability, functionality, and usability",
+                "Implemented new features and enhancements based on business requirements",
+                "Completed 58 Jira development tasks covering bug fixes, feature enhancements, and UI/UX improvements",
+                "Collaborated within an Agile development team, using Jira to track development work"
+              ],
+              "tags": ["Vue.js", "C#", "SQL", "Agile", "Jira", "Full-Stack Development"]
+            },
+            "fr": {
+              "title": "Développeur d'Applications Web {{Co-op}}",
+              "province": "Nouvelle-Écosse",
+              "country": "Canada",
+              "institution": "Bluedrop Training & Simulation",
+              "text": "Contribution au développement et à la maintenance d’une application web interne de logistique et de gestion du cycle de vie des produits (PLM), soutenant le développement et la fabrication de simulateurs de vol, en travaillant sur l’ensemble de la pile technologique dans un environnement Agile.",
+              "list": [
+                "Travail sur l’interface Vue.js, le backend C# et la base de données SQL, avec des modifications dans l’ensemble de l’application",
+                "Diagnostic et résolution de bogues, améliorant la stabilité, la fonctionnalité et l’utilisabilité de l’application",
+                "Implémentation de nouvelles fonctionnalités et améliorations selon les besoins de l’entreprise",
+                "Réalisation de 58 tâches de développement Jira couvrant corrections de bogues, améliorations de fonctionnalités et améliorations UI/UX",
+                "Collaboration au sein d’une équipe de développement Agile, utilisant Jira pour suivre le travail de développement"
+              ],
+              "tags": ["Vue.js", "C#", "SQL", "Agile", "Jira", "Développement Full-Stack"]
+            }
+          }
         }
       ]
     }

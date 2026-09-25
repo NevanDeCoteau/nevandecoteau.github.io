@@ -123,6 +123,30 @@
           }
         },
         {
+          "id": 5,
+          "categoryId": "category_utilities",
+          "img": "",
+          "faIcon": "fa-solid fa-chart-line",
+          "faIconColors": { "bg": "#306998", "fill": "#FFF" },
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Movie Review Sentiment Analysis",
+              "text": "A <b>Python</b>-based tool that classifies movie reviews as positive or negative using TF-IDF vectorization and multiple machine learning models (Logistic Regression, Decision Tree, Random Forest). Evaluated with cross-validation, accuracy, and F1 score to ensure generalization and reliability. Built with <b>NumPy</b>, <b>Pandas</b>, <b>scikit-learn</b>, and <b>Matplotlib</b>.",
+              "tags": ["Python", "scikit-learn", "Machine Learning", "Data Analysis"]
+            },
+            "fr": {
+              "text": "Un outil en <b>Python</b> qui classe les critiques de films comme positives ou négatives grâce à la vectorisation TF-IDF et plusieurs modèles de machine learning (régression logistique, arbre de décision, forêt aléatoire). Évalué par validation croisée, précision et score F1. Construit avec <b>NumPy</b>, <b>Pandas</b>, <b>scikit-learn</b> et <b>Matplotlib</b>.",
+              "tags": ["Python", "scikit-learn", "Machine Learning"]
+            }
+          }
+        },
+        {
           "id": 4,
           "categoryId": "category_utilities",
           "img": "images/pictures/n8nCover.png",

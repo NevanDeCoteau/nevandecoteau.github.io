@@ -40,9 +40,9 @@
               "province": "Nova Scotia",
               "country": "Canada",
               "institution": "Dalhousie University",
-              "text": "Pursuing a [[Bachelor of Applied Computer Science]] with a Major in Computer Science and a Minor in Business Management, maintaining a strong academic standing (CGPA 4.06/4.3). Coursework emphasizes software engineering, teamwork, and practical problem-solving through projects and labs.",
+              "text": "Pursuing a [[Bachelor of Applied Computer Science]] with a Major in Computer Science and a Minor in Business Management, maintaining a strong academic standing (CGPA 4.04/4.3). Coursework emphasizes software engineering, teamwork, and practical problem-solving through projects and labs.",
               "list": [],
-              "tags": []
+              "tags": ["Java", "Python", "SQL", "SDLC", "CI/CD", "Unit Testing", "Code Documentation", "Cybersecurity"]
             },
             "fr": {
               "title": "{{Baccalauréat}} en informatique appliquée",
@@ -51,7 +51,7 @@
               "institution": "Université Dalhousie",
               "text": "Prépare un [[baccalauréat en informatique appliquée]] avec majeure en informatique et mineure en gestion des affaires, avec un excellent dossier académique. La formation met l’accent sur le génie logiciel, le travail d’équipe et la résolution pratique de problèmes.",
               "list": [],
-              "tags": []
+              "tags": ["Java", "Python", "SQL", "SDLC", "CI/CD", "Tests Unitaires", "Documentation", "Cybersécurité"]
             }
           }
         },

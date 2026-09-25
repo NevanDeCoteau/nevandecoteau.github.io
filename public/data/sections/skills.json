@@ -114,6 +114,24 @@
               "text": "Compétences fondamentales en cloud avec AWS et expérience dans le déploiement et la gestion de projets."
             }
           }
+        },
+        {
+          "id": 6,
+          "img": "",
+          "faIcon": "fa-solid fa-chart-pie",
+          "faIconColors": { "bg": "", "fill": "" },
+          "date": { "year": null, "month": null },
+          "link": { "href": "", "tooltipString": "" },
+          "locales": {
+            "en": {
+              "title": "{{Data}} & analytics",
+              "text": "Turning raw data into insight with SQL, Excel, Power BI, and Python's data science stack."
+            },
+            "fr": {
+              "title": "Données & {{analytique}}",
+              "text": "Transformer les données brutes en insights avec SQL, Excel, Power BI et la pile de data science de Python."
+            }
+          }
         }
       ]
     },
@@ -252,6 +270,66 @@
               "level": ""
             }
           }
+        },
+        {
+          "id": 7,
+          "img": "",
+          "faIcon": "fa-solid fa-hashtag",
+          "faIconColors": { "bg": "", "fill": "#512BD4" },
+          "date": { "year": 2026, "month": 5 },
+          "percentage": 55,
+          "locales": {
+            "en": {
+              "title": "C# & .NET",
+              "text": "Developing backend features for a production logistics application using C# and .NET.",
+              "level": ""
+            },
+            "fr": {
+              "title": "C# & .NET",
+              "text": "Développement de fonctionnalités backend pour une application de logistique en production avec C# et .NET.",
+              "level": ""
+            }
+          }
+        },
+        {
+          "id": 8,
+          "img": "",
+          "faIcon": "fa-brands fa-microsoft",
+          "faIconColors": { "bg": "", "fill": "#0078D4" },
+          "date": { "year": 2026, "month": 5 },
+          "percentage": 50,
+          "locales": {
+            "en": {
+              "title": "Microsoft Azure",
+              "text": "Supporting logistics and simulator development workflows hosted on Microsoft Azure.",
+              "level": ""
+            },
+            "fr": {
+              "title": "Microsoft Azure",
+              "text": "Soutien aux flux de développement logistique et de simulateurs hébergés sur Microsoft Azure.",
+              "level": ""
+            }
+          }
+        },
+        {
+          "id": 9,
+          "img": "",
+          "faIcon": "fa-brands fa-unity",
+          "faIconColors": { "bg": "#000000", "fill": "#FFFFFF" },
+          "date": { "year": 2022, "month": 6 },
+          "percentage": 65,
+          "locales": {
+            "en": {
+              "title": "Unity",
+              "text": "Building 3D environments and gameplay systems in Unity and C#, from a multi-user virtual environment to a 48-hour game jam.",
+              "level": ""
+            },
+            "fr": {
+              "title": "Unity",
+              "text": "Développement d’environnements 3D et de systèmes de jeu avec Unity et C#, d’un environnement virtuel multi-utilisateur à un game jam de 48 heures.",
+              "level": ""
+            }
+          }
         }
       ]
     },
@@ -326,6 +404,26 @@
             "fr": {
               "title": "HTML & CSS",
               "text": "Création de mises en page responsives avec du HTML sémantique et du CSS moderne.",
+              "level": ""
+            }
+          }
+        },
+        {
+          "id": 4,
+          "img": "",
+          "faIcon": "fa-brands fa-vuejs",
+          "faIconColors": { "bg": "", "fill": "#4FC08D" },
+          "date": { "year": 2026, "month": 5 },
+          "percentage": 60,
+          "locales": {
+            "en": {
+              "title": "Vue.js",
+              "text": "Building and maintaining features on a production Vue.js frontend at Bluedrop.",
+              "level": ""
+            },
+            "fr": {
+              "title": "Vue.js",
+              "text": "Développement et maintenance de fonctionnalités sur un frontend Vue.js en production chez Bluedrop.",
               "level": ""
             }
           }
@@ -463,6 +561,63 @@
             "fr": {
               "title": "SQL",
               "text": "Écriture de requêtes, conception de schémas et gestion de bases de données relationnelles.",
+              "level": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Data & Analytics" },
+        "fr": { "title": "Données & Analytique" }
+      },
+      "settings": {
+        "max_items_per_row": 3,
+        "max_rows_collapse_threshold": 6,
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "round_icons": false
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "",
+          "faIcon": "fa-solid fa-file-excel",
+          "faIconColors": { "bg": "", "fill": "#217346" },
+          "date": { "year": 2021, "month": 1 },
+          "percentage": 65,
+          "locales": {
+            "en": {
+              "title": "Excel",
+              "text": "Data analysis, formulas, and reporting for academic and organizational work.",
+              "level": ""
+            },
+            "fr": {
+              "title": "Excel",
+              "text": "Analyse de données, formules et création de rapports pour des projets académiques et organisationnels.",
+              "level": ""
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "faIcon": "fa-solid fa-chart-pie",
+          "faIconColors": { "bg": "", "fill": "#F2C811" },
+          "date": { "year": 2026, "month": 1 },
+          "percentage": 45,
+          "locales": {
+            "en": {
+              "title": "Power BI",
+              "text": "Building dashboards and reports for data-driven insights; certified in Power BI & Data Analytics Fundamentals through Microsoft Learn.",
+              "level": ""
+            },
+            "fr": {
+              "title": "Power BI",
+              "text": "Création de tableaux de bord et de rapports pour des insights basés sur les données ; certifié en fondamentaux Power BI et analyse de données via Microsoft Learn.",
               "level": ""
             }
           }

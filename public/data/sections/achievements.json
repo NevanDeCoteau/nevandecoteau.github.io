@@ -84,6 +84,40 @@
             "text": "Certification délivrée par la Commission de la santé mentale du Canada, axée sur la littératie en santé mentale, la réduction de la stigmatisation et le bien-être des étudiants."
             }
           }
+        },
+        {
+          "id": 4,
+          "img": "",
+          "faIcon": "fa-solid fa-user-shield",
+          "faIconColors": { "bg": "#1b1b1b", "fill": "#e8e6e3" },
+          "date": { "year": 2024, "month": 8 },
+          "link": { "href": "", "tooltipString": "see_certification" },
+          "locales": {
+            "en": {
+            "title": "{{Ethical Hacking}} from Scratch",
+            "text": "Udemy certification covering penetration testing, networking, and Linux fundamentals, including reconnaissance, vulnerability scanning, and password attack techniques."
+            },
+            "fr": {
+            "text": "Certification Udemy couvrant les tests d’intrusion, les réseaux et les fondamentaux Linux, incluant la reconnaissance, l’analyse de vulnérabilités et les techniques d’attaque par mot de passe."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "img": "",
+          "faIcon": "fa-solid fa-chart-pie",
+          "faIconColors": { "bg": "#F2C811", "fill": "#111" },
+          "date": { "year": 2026, "month": null },
+          "link": { "href": "", "tooltipString": "see_certification" },
+          "locales": {
+            "en": {
+              "title": "{{Power BI}} & Data Analytics Fundamentals – Microsoft Learn",
+              "text": "Microsoft Learn certification covering Power BI fundamentals, data modeling, and building reports and dashboards for data-driven decision-making."
+            },
+            "fr": {
+              "text": "Certification Microsoft Learn couvrant les fondamentaux de Power BI, la modélisation de données et la création de rapports et tableaux de bord pour la prise de décision basée sur les données."
+            }
+          }
         }
       ]
     },
@@ -144,14 +178,14 @@
               "province": "Nova Scotia",
               "country": "Canada",
               "institution": "Dalhousie University",
-              "text": "Maintained Cumulative GPA of 4.06/4.3 in Bachelor of Applied Computer Science program, demonstrating consistent high performance."
+              "text": "Maintained Cumulative GPA of 4.04/4.3 in Bachelor of Applied Computer Science program, demonstrating consistent high performance."
             },
             "fr": {
               "title": "{{Excellence Académique}} – Université Dalhousie",
               "province": "Nouvelle-Écosse",
               "country": "Canada",
               "institution": "Université Dalhousie",
-              "text": "Maintenu une moyenne cumulative de 4.06/4.3 au programme Baccalauréat en informatique appliquée, démontrant un rendement élevé constant."
+              "text": "Maintenu une moyenne cumulative de 4.04/4.3 au programme Baccalauréat en informatique appliquée, démontrant un rendement élevé constant."
             }
           }
         },

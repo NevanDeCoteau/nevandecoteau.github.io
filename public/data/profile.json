@@ -15,7 +15,8 @@
             "status_message_available_for_freelance": "",
             "roles": [
                 "Student",
-                "React Developer"
+                "Full-Stack Web Developer",
+                "AI Integrations Developer"
             ],
             "name_pronunciation_ipa": "/neh vahn/",
             "name_pronunciation_audio_url": ""
@@ -23,8 +24,9 @@
         "fr": {
             "status_message_available_for_freelance": "Disponible pour freelance !",
             "roles": [
-                "Développeur React",
-                "Student"
+                "Étudiant",
+                "Développeur Web Full-Stack",
+                "Développeur d'Intégrations IA"
             ]
         }
     }
